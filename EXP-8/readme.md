@@ -1,5 +1,6 @@
 # (8). 1.Create the ACCOUNT Table
 ```
+
 CREATE TABLE account (
     account_number NUMBER(10) PRIMARY KEY,
     customer_name  VARCHAR2(50),
